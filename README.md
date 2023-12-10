@@ -25,5 +25,6 @@ go run main.go
 ![f7cd0a38c7816a1fa035ecff337abcec.png](https://raw.githubusercontent.com/ZhuchaWenjiu/imgback/main/202312102138031.png?token=AKTVCCPKK2QTRQDVEY722QTFOW7Y2)
 
 ## 代码补充
+基于[这里](https://github.com/InferBear/UdpFileSender)
 - 添加 md5 校验
 - 添加滑动窗口传输
